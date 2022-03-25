@@ -1,5 +1,8 @@
 Hello I am Null! 👋
-Things I use daily; c++, c, c#, js, php, sql, html and css.
+
+Languages that I enjoy; c++, c, c#, python, js, php, sql, html and css.
+
+Trying to improve at reverse engineering.
 
 Join Null's Software discord server; 
 
